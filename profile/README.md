@@ -8,4 +8,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are a gaming community in Victoria, Australia. This is our github Organisation where we keep the sourcecode for most of our game servers
+We are a gaming community in Victoria, Australia. This is our github Organisation where we keep the sourcecode to build most of our game servers
